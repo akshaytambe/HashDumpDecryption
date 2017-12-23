@@ -1,4 +1,4 @@
-# Password Decryption Algorithms
+# Hash Decryption Algorithms
 
 ## Yahoo Dump
 The Yahoo database dump was pretty easy to decrypt, as the given file already has passwords with its usernames associated respectively. This is a case of analyzing and understanding the pattern of storage in the file. A python program was written to parse the text file for eliminating the redundant data and splitting the passwords from the original text to form a presentable format.
